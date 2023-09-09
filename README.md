@@ -1,0 +1,2 @@
+# docs
+QuickConvert’s documentation
